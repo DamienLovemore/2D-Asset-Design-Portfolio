@@ -13,7 +13,7 @@ Repository link: https://github.com/DamienLovemore/Introduction-to-2D-Art---Pixe
 ![FundTech4](./Images/Fundamental%20Techniques/Horizon%20-%20Dithered.png)<br>
 ![FundTech5](./Images/Fundamental%20Techniques/Sword2.png)<br>
 ![FundTech6](./Images/Fundamental%20Techniques/TV-Guy.png)
-![FundTech7](./Images/Fundamental%20Techniques/Robot.png)
+![FundTech7](./Images/Fundamental%20Techniques/Robot.png)<br>
 Repository link: https://github.com/DamienLovemore/2D-Fundamental-Techniques---PixelArt
 
 - Designing Inventory Items <br>
